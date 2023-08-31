@@ -31,3 +31,5 @@ if (calcular=="s"){
     }
 else
     console.log("Hasta luego."); //actualizacion de calculadora
+/*COMENTARIO DE VARIAS LINEAS
+JUEVES 31*/
